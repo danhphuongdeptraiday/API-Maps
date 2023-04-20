@@ -1,0 +1,27 @@
+h1 {
+  margin: 1em 0;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:forestgreen;
+  color: white;
+  text-align: center;
+  height:"12"
+}
+.searchBox{
+  height:"";
+  width:"100%"
+  border-radius:10px
+}
+.searchButton{
+  border-radius:10px
+}
+.box{
+    width: 100%;
+    text-align:center;
+  height: "200"
+}
